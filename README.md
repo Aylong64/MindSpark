@@ -11,7 +11,7 @@ A quote generator built with HTML, CSS, and JavaScript. Click a button, get insp
 ## ✨ Features
 
 - Randomly serves a curated quote on each click
-- Displays quote text and author
+- Displays the quote and person who said it
 - Smooth, card-based UI with a vibrant gradient background
 - Zero dependencies — pure JS
 
