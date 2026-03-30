@@ -25,6 +25,7 @@ function getRandomQuote() {
         { text: "Hardwork beats Talent where talent doesn't work hard", author: "Latimore Precious" },
         { text: "I can do all things through Christ who strenthens me", author: "Anisere Amoke" },
         { text: "God is in control", author: "Iyiola Zainab" },
+        {text: "Functionality over Aesthetics", author: "Nwachokor Otito"},
     ]
 
     return quotes[Math.floor(Math.random() * quotes.length)]
